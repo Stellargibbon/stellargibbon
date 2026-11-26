@@ -1,12 +1,10 @@
 # Hi, I'm stellargibbon
 
 ML infrastructure / inference-systems person. Find-the-bottleneck-and-kill-it work:
-quantized GEMM kernels, multi-node LLM serving, and measuring the things vendor
-slides skip.
+quantized GEMM kernels, multi-node LLM serving.
 
 **Home fleet: 6x NVIDIA DGX Spark (GB10, 128 GiB unified memory each)** --
-switchless ConnectX-7 rings, TP=2 serving pairs over RoCE, and benchmarks on this
-hardware class you won't find published anywhere else.
+switchless ConnectX-7 rings and TP=2 serving pairs over RoCE.
 
 ## Recent work
 
