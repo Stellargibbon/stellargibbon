@@ -3,9 +3,6 @@
 ML infrastructure / inference-systems person. Find-the-bottleneck-and-kill-it work:
 quantized GEMM kernels, multi-node LLM serving.
 
-**Home fleet: 6x NVIDIA DGX Spark (GB10, 128 GiB unified memory each)** --
-switchless ConnectX-7 rings and TP=2 serving pairs over RoCE.
-
 ## Recent work
 
 - **[W4A16-GEMM](https://github.com/Stellargibbon/W4A16-GEMM)** -- replicating
