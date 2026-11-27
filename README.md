@@ -12,5 +12,5 @@ ML infra. Quantized GEMM kernels, multi-node LLM serving.
 
 ## Working on
 
-- **Switchless 6x DGX Spark ring** — GLM-5.3 4-bit serving across 6 nodes, no switch.
+- **Switchless 6x DGX Spark ring** - GLM-5.3 4-bit serving across 6 nodes, no switch.
   Custom NCCL ring topology; builds on the TP=2 pair work above.
